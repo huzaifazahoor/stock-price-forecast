@@ -21,7 +21,7 @@ This repository is dedicated to forecasting stock price trends. By leveraging th
 
 Navigate to the project directory:
 
-```cd price-prediction```
+```cd stock-price-forecast```
 
 Install the required packages:
 
